@@ -1,4 +1,4 @@
-package Homework1;
+package HomeWork;
 
 public class DATA_TYPES {
     public static void main(String[] args) {
