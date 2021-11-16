@@ -28,10 +28,11 @@ public class variables {
         *
          */
         String[] stringHealth={"Health was Earlier said to be the ability of the body functioning Well"};
-        String[] afterSplit_Space=stringHealth.split[""];
+        int afterSplit_Space=stringHealth.length-1;
         System.out.println("The health string ");
-        int numberOfWords= afterSplit_Space.length;
+        int numberOfWords= afterSplit_Space.split(" " );
         System.out.println("\n The number of words in string 1 are :  "  + numberOfWords);
+
     }
 
 }
