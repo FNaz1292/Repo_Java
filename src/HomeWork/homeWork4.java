@@ -3,7 +3,7 @@ package HomeWork;
 import java.util.Arrays;
 import java.util.Locale;
 
-public class hWork5{
+public class homeWork4 {
     public static void main (String[] args)
     {
         /* store a country's name in a variable.
